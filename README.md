@@ -26,7 +26,7 @@ Me caracterizo por ser responsable y no perder el tiempo en tareas innecesarias,
 
 Aquí están tres proyectos que he completado recientemente:
 
-## [Análisis crediticio](https://github.com/PatricioNovellino/Data_science/tree/main/Analisis_crediticio{:target="_blank"})
+## [Análisis crediticio](https://github.com/PatricioNovellino/Data_science/tree/main/Analisis_crediticio)
 
 * Descripción: Analice un conjunto de datos bancario para realizar predicciones sobre  nivel crediticio de futuros clientes.
 * Herramientas: Python, Pandas, Matplotlib, Numpy, Seaborn, Plotly, scikit-learn
