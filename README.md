@@ -1,13 +1,12 @@
-Portafolio de Científico de Datos
-=================================
+# Portafolio de Científico de Datos
 
-Sobre mí
---------
+## Sobre mí
 
-Soy un apasionado de la ciencia de datos con experiencia en análisis y visualización de datos. Tengo una formación sólida en matemáticas, estadística y programación, y he trabajado en proyectos que van desde la limpieza y manipulación de datos hasta la construcción de modelos de aprendizaje automático. Mi objetivo es utilizar mis habilidades para convertir datos en información valiosa y ayudar a las empresas a tomar decisiones basadas en datos.
+Estudiante de Licenciatura en Física en la Universidad de La Plata buscando oportunidades para desarrollarme en el campo de la Ciencia de Datos.  
+Con habilidades en análisis de datos, programación y estadística, busco contribuir en la toma de decisiones y el avance en el mundo de la tecnología.  
+Me caracterizo por ser responsable y no perder el tiempo en tareas innecesarias, con la finalidad de alcanzar los objetivos propuestos de manera eficiente.
 
-Habilidades
------------
+## Habilidades
 
 *   Análisis de datos
 *   Visualización de datos
@@ -16,8 +15,7 @@ Habilidades
 *   Bases de datos
 *   Estadística
 
-Proyectos
----------
+## Proyectos
 
 Aquí están tres proyectos que he completado recientemente:
 
@@ -25,16 +23,19 @@ Aquí están tres proyectos que he completado recientemente:
     
     *   Descripción: Analicé un conjunto de datos de ventas de productos y creé visualizaciones para identificar tendencias y patrones en las ventas.
     *   Herramientas: Python, Pandas, Matplotlib
+
+![imagen](https://user-images.githubusercontent.com/116850750/211229814-ddecd3fa-a05c-4d5e-96ee-b1b50b791948.png)
+
 2.  Predicción de precios de viviendas
     
     *   Descripción: Construí un modelo de aprendizaje automático para predecir los precios de las viviendas en una determinada área.
     *   Herramientas: Python, Scikit-learn, Pandas
+
 3.  Segmentación de clientes
     
     *   Descripción: Utilicé técnicas de clustering para segmentar a los clientes de una tienda en línea en diferentes grupos basados en sus hábitos de compra.
     *   Herramientas: Python, Kmeans, Pandas.
 
-Conclusión
-----------
+## Conclusión
 
 Este portafolio muestra una pequeña muestra de mi experiencia y habilidades en ciencia de datos. Estoy emocionado de continuar aprendiendo y trabajando en proyectos interesantes en el futuro.
