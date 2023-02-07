@@ -1,4 +1,4 @@
-# Portafolio de Científico de Datos
+# Portafolio de Patricio Novellino
 
 ## Sobre mí
 
@@ -8,34 +8,34 @@ Me caracterizo por ser responsable y no perder el tiempo en tareas innecesarias,
 
 ## Habilidades
 
-*   Análisis de datos
-*   Visualización de datos
-*   Programación en Python y R
-*   Machine learning
-*   Bases de datos
-*   Estadística
+* Análisis de datos
+* Visualización de datos
+* Programación en Python
+* Machine learning
+* Bases de datos SQL
+* Estadística
 
-## Proyectos
+# Proyectos
 
 Aquí están tres proyectos que he completado recientemente:
 
-1.  Análisis de tendencias en la venta de productos
-    
-    *   Descripción: Analicé un conjunto de datos de ventas de productos y creé visualizaciones para identificar tendencias y patrones en las ventas.
-    *   Herramientas: Python, Pandas, Matplotlib
+## [Análisis crediticio](https://github.com/PatricioNovellino/Data_science/tree/main/Analisis_crediticio)
+
+* Descripción: Analice un conjunto de datos bancario para realizar predicciones sobre  nivel crediticio de futuros clientes.
+* Herramientas: Python, Pandas, Matplotlib, Numpy, Seaborn, Plotly, scikit-learn
 
 ![imagen](https://user-images.githubusercontent.com/116850750/211229814-ddecd3fa-a05c-4d5e-96ee-b1b50b791948.png)
 
-2.  Predicción de precios de viviendas
+## Predicción de precios de viviendas
     
-    *   Descripción: Construí un modelo de aprendizaje automático para predecir los precios de las viviendas en una determinada área.
-    *   Herramientas: Python, Scikit-learn, Pandas
+* Descripción: Construí un modelo de aprendizaje automático para predecir los precios de las viviendas en una determinada área.
+* Herramientas: Python, Scikit-learn, Pandas
 
-3.  Segmentación de clientes
+## Segmentación de clientes
     
-    *   Descripción: Utilicé técnicas de clustering para segmentar a los clientes de una tienda en línea en diferentes grupos basados en sus hábitos de compra.
-    *   Herramientas: Python, Kmeans, Pandas.
+* Descripción: Utilicé técnicas de clustering para segmentar a los clientes de una tienda en línea en diferentes grupos basados en sus hábitos de compra.
+* Herramientas: Python, Kmeans, Pandas.
 
-## Conclusión
+# Conclusión
 
 Este portafolio muestra una pequeña muestra de mi experiencia y habilidades en ciencia de datos. Estoy emocionado de continuar aprendiendo y trabajando en proyectos interesantes en el futuro.
