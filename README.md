@@ -8,6 +8,13 @@ Me caracterizo por ser responsable y no perder el tiempo en tareas innecesarias,
 
 ## Habilidades
 
+| Competencia     | Detalles  |
+| ----------------| ----------|
+| Python          | Pandas    |
+|-| Numpy     |
+|-| Matplotlib|
+|-| scikit-learn|
+
 * Análisis de datos
 * Visualización de datos
 * Programación en Python
