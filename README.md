@@ -6,6 +6,9 @@ Estudiante de Licenciatura en Física en la Universidad de La Plata buscando opo
 Con habilidades en análisis de datos, programación y estadística, busco contribuir en la toma de decisiones y el avance en el mundo de la tecnología.  
 Me caracterizo por ser responsable y no perder el tiempo en tareas innecesarias, con la finalidad de alcanzar los objetivos propuestos de manera eficiente.
 
+## presentacion
+sakofjdsiojvofedvbdvbdb
+
 ## Habilidades
 
 * Análisis de datos
